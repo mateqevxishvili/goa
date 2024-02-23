@@ -1,0 +1,20 @@
+Pri nt )print 20
+vprint 20
+print 20
+print 20
+print 20
+print 20
+print 20
+print 20
+print 20
+print 20
+print 20
+print 20
+print 20
+print 20
+print 20
+print 20
+print 20
+print 20
+print 20
+print 20
